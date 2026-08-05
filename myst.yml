@@ -20,7 +20,7 @@ project:
         - Conceptualization
         - Writing - review & editing
   description: "This paper explores the effectiveness of the #betterposter design v2 through an eye tracking study. It discusses the general introduction to eye tracking, the technical setup, and the experimental procedures, highlighting the contributions of the MediaLAB at the University of Vienna and Mike Morrison."
-  banner: images/eye-tracking-banner.png
+  banner: images/row-of-posters-ultrawide.png
   thumbnail: images/poster-eye-tracking-thumb.png
   keywords: ["eye tracking", "betterposter design", "experimental study", "usability"]
   # github:
