@@ -1,5 +1,5 @@
 ---
-
+title: Eye Tracking Pilot: #betterposter Design v2 Enabled Faster and Easier Understanding of Results
 
 abstract: |
     Every academic is confronted with the need to stay on top of trends and advancements within their
