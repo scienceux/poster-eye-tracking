@@ -26,8 +26,9 @@ project:
   keywords: ["eye tracking", "betterposter design", "experimental study", "usability"]
   date: 2024-07-22
   venue:
-    title: ScienceUX
-    doi: 10.62329/fxdg3668
+    title: 'ScienceUX: Journal of Scientist User Experience'
+    short_title: ScienceUX
+    doi: 10.62329/ntcn7423
   # github:
   # bibliography: []
 site:
