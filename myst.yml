@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  doi: 10.62329/wrtj2622
   id: f6005183-5290-48e0-a1ec-fce79d0741c2
   title: "Eye Tracking Pilot: #betterposter Design v2 Enabled Faster and Easier Understanding of Results"
   authors: 
@@ -23,6 +24,11 @@ project:
   banner: images/row-of-posters-ultrawide.png
   thumbnail: images/poster-eye-tracking-thumb.png
   keywords: ["eye tracking", "betterposter design", "experimental study", "usability"]
+  date: 2024-07-22
+  venue:
+    title: 'ScienceUX: Journal of Scientist User Experience'
+    short_title: ScienceUX
+    doi: 10.62329/ntcn7423
   # github:
   # bibliography: []
 site:
